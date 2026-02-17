@@ -21,7 +21,7 @@ A simple yet powerful image classification application that can distinguish betw
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/dog-cat-classifier.git
+   git clone https://github.com/rajnagar07/dog-cat-classifier.git
    cd dog-cat-classifier
    ```
 
